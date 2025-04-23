@@ -96,8 +96,8 @@ spec:
     command: ["sleep", "3600"]
 ```
 4. Продемонстрировать доступ с помощью `curl` по доменному имени сервиса.
-![alt text](https://github.com/VN351/kube-03/raw/main/images/1-1.jpg)
-![alt text](https://github.com/VN351/kube-03/raw/main/images/1-2.jpg)
+![alt text](https://github.com/VN351/kube-04/raw/main/images/1-1.jpg)
+![alt text](https://github.com/VN351/kube-04/raw/main/images/1-2.jpg)
 
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
@@ -135,11 +135,11 @@ spec:
       nodePort: 31002
 ```
 2. Продемонстрировать доступ с помощью браузера или `curl` с локального компьютера.
-![alt text](https://github.com/VN351/kube-03/raw/main/images/2-1.jpg)
+![alt text](https://github.com/VN351/kube-04/raw/main/images/2-1.jpg)
 С VM на которой развернут Kubernetis
-![alt text](https://github.com/VN351/kube-03/raw/main/images/2-2.jpg)
+![alt text](https://github.com/VN351/kube-04/raw/main/images/2-2.jpg)
 С PC с Windows
-![alt text](https://github.com/VN351/kube-03/raw/main/images/2-3.jpg)
+![alt text](https://github.com/VN351/kube-04/raw/main/images/2-3.jpg)
 3. Предоставить манифест и Service в решении, а также скриншоты или вывод команды п.2.
 
 ------
